@@ -5,76 +5,48 @@
 ### 🌐 Lenguajes de programación
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript&titles=true" alt="PHP, Javascript y Typescript" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript&titles=true) -->
 
 ### 🖥️ Front-end
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwindcss,jquery,react,nextjs&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwindcss,jquery,react,nextjs&titles=true" alt="HTML, CSS, Bootstrap, Tailwind CSS, jQuery, React y Next.js" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwindcss,jquery,react,nextjs&titles=true) -->
 
 ### 🗄️ Back-end
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,nestjs&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,nestjs&titles=true" alt="Laravel, Node.js y NestJS" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,nestjs&titles=true) -->
 
 ### 💾 Base de datos
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,prisma&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,prisma&titles=true" alt="MySQL, PostgreSQL y Prisma" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,prisma&titles=true) -->
 
 ### 🔀 Control de versiones
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab&titles=true" alt="Git, GitHub y GitLab" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab&titles=true) -->
 
 ### ☁️ Servicios en la nube
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,vercel&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,vercel&titles=true" alt="AWS y Vercel" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=aws,vercel&titles=true) -->
 
 ### 🛠️ Herramientas
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true" alt="VS Code, Postman, Bash, npm, ngrok, Auth.js, ChatGPT, Google Apps Script y GitHub Copilot" />
 </p>
-<!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true) -->
 
-<h1 align="center">Contacto</h1>
+<br>
 
-<p align="center">
-  <a href="mailto:contrerasalexis380@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true" />
-  </a>
-  <a href="https://linkedin.com/in/ari-alexis-contreras-lomán-79b715237/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
 **MagnanimoBvv/MagnanimoBvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
