@@ -1,6 +1,12 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <h1 align="center">Hola! 👋</h1>
+
+<p>
+  <img align="right" src="https://github.com/MagnanimoBvv/MagnanimoBvv/blob/main/Right_Side.gif" alt="MagnanimoBvv" width=250px />
+</p>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <h1 align="center">Stack tecnológico</h1>
 
