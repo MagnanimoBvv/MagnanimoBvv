@@ -6,7 +6,7 @@
   <img align="right" src="https://github.com/MagnanimoBvv/MagnanimoBvv/blob/main/Right_Side.gif" alt="MagnanimoBvv" width=250px />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <h1 align="center">Stack tecnológico</h1>
 
