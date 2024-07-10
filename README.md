@@ -12,7 +12,7 @@
 
 ### 👉 Back-end
 
-![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,nestjs,npm&titles=true)
+![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,nestjs&titles=true)
 
 ### 👉 Base de datos
 
@@ -28,7 +28,7 @@
 
 ### 👉 Herramientas
 
-![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,googleappsscript,githubcopilot&titles=true)
+![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true)
 <!--
 **MagnanimoBvv/MagnanimoBvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
