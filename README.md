@@ -6,7 +6,20 @@
   <img align="right" src="https://github.com/MagnanimoBvv/MagnanimoBvv/blob/main/Right_Side.gif" alt="MagnanimoBvv" width=250px />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
+
+Un poco sobre mi...
+
+<br>
+
+- 👨🏽‍💻 `Apasionado` desarrollador web full-stack autodidacta.
+- ⚡️ Actualmente aprendiendo a explotar todas las ventajas de `React`.
+- 🤓 Siempre `dispuesto` a obtener nuevos conocimientos.
+- 🤝 Abierto a colaborar.
+- 🎯 `Enfocado` en mejorar mis habilidades, aprendiendo de mis aciertos y errores.
+- 🐢 Amante de las `tortugas` y el `ajedrez`. ♟️
+
+<br>
 
 <h1 align="center">Stack tecnológico</h1>
 
