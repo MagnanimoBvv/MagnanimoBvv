@@ -64,6 +64,17 @@
   </a>
 </p>
 <!-- ![Stack Tecnologico](https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true) -->
+
+<h1 align="center">Contacto</h1>
+
+<p align="center">
+  <a href="mailto:contrerasalexis380@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true" />
+  </a>
+  <a href="https://linkedin.com/in/ari-alexis-contreras-lomán-79b715237/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
+  </a>
+</p>
 <!--
 **MagnanimoBvv/MagnanimoBvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
