@@ -62,7 +62,7 @@ Un poco sobre mi...
 ### 🛠️ Herramientas
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,bash,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot&titles=true" alt="VS Code, Postman, Bash, npm, ngrok, Auth.js, ChatGPT, Google Apps Script y GitHub Copilot" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,terminal,npm,ngrok,authjs,chatgpt,googleappsscript,githubcopilot,slack&titles=true" alt="VS Code, Postman, Terminal, npm, ngrok, Auth.js, ChatGPT, Google Apps Script, GitHub Copilot y Slack" />
 </p>
 
 <br>
